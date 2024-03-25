@@ -1,8 +1,9 @@
-let x = document.getElementById('div1');
-x.style.backgroundColor='yellow';
-x.style.fontWeight='bold';
-x.style.margin='20px';
-x.style.padding='10px';
-x.style.fontSize='18px';
-x.style.height='200px';
-x.style.width='300px';
+let myId = document.getElementById("divId");
+myId.style.color = "blue";
+myId.style.backgroundColor = "yellow";
+myId.style.margin = " 20px";
+myId.style.padding = "10px";
+myId.style.fontSize = "18px";
+myId.style.fontWeight = "bold";
+myId.style.height = "200px";
+myId.style.width = "300px";
